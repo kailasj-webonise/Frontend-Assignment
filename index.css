@@ -1,0 +1,141 @@
+.bodyeffect
+{
+  font-family:"Georgia";
+  font-size: 13px;
+  font-color:#222222;
+}
+
+.header
+{
+  font-color:#3355aa;
+  height: 80px;
+  padding-left: 10px;
+  padding-top: 10px;
+
+}
+
+.navbar-default
+{
+  padding: 6px;
+  font-color: #ffffff;
+  height: 40PX;
+  background-color: #3355aa;
+  font-size: 15px;
+}
+.navbar-default a
+{
+  color: #ffffff;
+}
+
+.navbar-default form
+{
+  float: right;
+}
+
+.k2
+{
+  border-left: 3px solid lightblue;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.bannerset
+{
+  padding-top: 35px;
+  padding-left: 10px;
+  padding-bottom: 45px;
+  font-size: 14px;
+
+}
+.bannerset img
+{
+height:100%;
+width: 100%;
+padding: 5px;
+padding-bottom:50;
+}
+.text-header h3
+{
+  padding-top: 15px;
+  font-size: 16px;
+  font-color:#3355aa;
+}
+
+.text-header hr
+{
+  border:solid;
+  size: 50px;
+  color: #FFFF00;
+}
+.smalltext span
+{
+
+  font-size: 10px;
+}
+.sectors1
+{
+  background-color: #f1f1f1;
+  padding-bottom: 75px;
+  /*padding-top: 25px;*/
+}
+.sectors1 h2
+{
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  /*background-color: #f1f1f1;*/
+
+  font-size: 28px;
+}
+.card a
+{
+  padding-top: 10px;
+  color: #000080;
+  font-size: 16px;
+  text-align: center;
+}
+.box
+{
+  background-color: #808080;
+  height: 250px;
+  margin: 5px;
+}
+.footer
+{
+  padding-top: 15px;
+  padding-bottom: 35px;
+  background-color: #333333;
+}
+.footer span
+{
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 14px;
+}
+
+.footer a
+{
+  color: #808080;
+}
+.style
+{
+  float: right;
+  size: 11px;
+}
+.style a
+{
+  font-size: 11px;
+}
+.footer hr
+{
+  border-width: 2px;
+  color: #3d3d3d;
+
+}
+.style5 a
+{
+  font-size: 11px;
+}
+
+
+
