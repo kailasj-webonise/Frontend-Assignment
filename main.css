@@ -2,14 +2,13 @@
 {
   font-family:"Georgia";
   font-size: 13px;
-  font-color:#222222;
+  color:#222222;
 }
 
 .header
 {
-  font-color:#3355aa;
+  color:#3355aa;
   height: 80px;
-  padding-left: 10px;
   padding-top: 10px;
 
 }
@@ -17,7 +16,7 @@
 .navbar-default
 {
   padding: 6px;
-  font-color: #ffffff;
+  color: #ffffff;
   height: 40PX;
   background-color: #3355aa;
   font-size: 15px;
@@ -26,15 +25,18 @@
 {
   color: #ffffff;
 }
+.navbar-default button
+{
+  background-color: #3355aa;
+}
 
-.navbar-default form
+.search1
 {
   float: right;
 }
-
-.k2
+.nav-item
 {
-  border-left: 3px solid lightblue;
+  border-left: 3px solid blue;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -58,7 +60,7 @@ padding-bottom:50;
 {
   padding-top: 15px;
   font-size: 16px;
-  font-color:#3355aa;
+  color:#3355aa;
 }
 
 .text-header hr
