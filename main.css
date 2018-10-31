@@ -27,7 +27,8 @@
 }
 .navbar-default button
 {
-  background-color: #3355aa;
+  background-color: #3355ff;
+  border:transparent;
 }
 
 .search1
@@ -54,90 +55,160 @@
 height:100%;
 width: 100%;
 padding: 5px;
-padding-bottom:50;
+}
+.caption
+{
+  text-align: center;
 }
 .text-header h3
 {
   padding-top: 15px;
   font-size: 16px;
   color:#3355aa;
+  border-bottom: 2px solid orange;
+  padding-bottom: 10px;
+}
+ul.announcementmain
+{
+  list-style-type: none;
+  padding-left: inherit;
+  padding: 0;
+}
+.announcement
+{
+  padding-bottom: 10px;
+  border-bottom: 1px solid #f1f1f1;
+  padding-top: 10px;
 }
 
-.text-header hr
-{
-  border:solid;
-  size: 50px;
-  color: #FFFF00;
-}
-.smalltext span
+.smalltext
 {
 
   font-size: 10px;
+
 }
 .sectors1
 {
   background-color: #f1f1f1;
   padding-bottom: 75px;
-  /*padding-top: 25px;*/
+  border-top: 1px solid #808080;
+
 }
 .sectors1 h2
 {
   text-align: center;
   padding-top: 25px;
   padding-bottom: 25px;
-  /*background-color: #f1f1f1;*/
+
 
   font-size: 28px;
 }
+ul.row{
+ padding: 0;
+ list-style-type: none;
+}
+
 .card a
 {
-  padding-top: 10px;
+  padding:10px 60px;
   color: #000080;
   font-size: 16px;
   text-align: center;
 }
+.card
+{
+  height: 350px;
+}
 .box
 {
   background-color: #808080;
-  height: 250px;
+  height: 300px;
   margin: 5px;
 }
-.footer
+.footerDesign
 {
   padding-top: 15px;
   padding-bottom: 35px;
   background-color: #333333;
 }
-.footer span
+.headerdata-item
 {
+
   padding-left: 10px;
   padding-right: 10px;
   font-size: 14px;
+  display: inline;
+  border-right: 1px solid #808080;
+}
+.headerdata-item1
+{
+
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 14px;
+  display: inline;
 }
 
-.footer a
+.footerDesign a
 {
   color: #808080;
 }
-.style
+.headerdataleft
 {
   float: right;
-  size: 11px;
 }
-.style a
+.headerdataleft-item
 {
+
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 11px;
+  display: inline;
+  border-right: 1px solid #808080;
+}
+.headerdataleft-item1
+{
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 11px;
+  display: inline;
+}
+.end
+{
+  border-top: 1px solid #808080;
+  padding-top: 10px;
+}
+.end a
+{
+  padding: 10px;
   font-size: 11px;
 }
-.footer hr
-{
-  border-width: 2px;
-  color: #3d3d3d;
 
+.bottmBorder{
+  border-bottom: 1px solid #808080;
 }
-.style5 a
+.headerdata
 {
-  font-size: 11px;
+  padding-left: inherit;
+  padding: 0;
 }
-
-
-
+.headerdata-item a:hover
+{
+  color: white;
+  text-decoration: none;
+}
+.headerdataleft-item a:hover
+{
+  color: white;
+  text-decoration: none;
+}
+.headerdata-item1 a:hover
+{
+  color: white;
+  text-decoration: none;
+}
+.headerdataleft-item1 a:hover
+{
+  color: white;
+  text-decoration: none;
+}
